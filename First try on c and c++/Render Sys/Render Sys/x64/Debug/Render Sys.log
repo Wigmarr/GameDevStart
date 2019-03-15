@@ -1,0 +1,4 @@
+﻿  Snake.cpp
+d:\vs_code\vs_projects\render sys\render sys\snake.h(11): warning C4309: инициализация: усечение константного значения
+Snake.obj : error LNK2005: "bool __cdecl isKeyDown(int)" (?isKeyDown@@YA_NH@Z) уже определен в main.obj
+D:\VS_Code\VS_Projects\Render Sys\x64\Debug\Render Sys.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более

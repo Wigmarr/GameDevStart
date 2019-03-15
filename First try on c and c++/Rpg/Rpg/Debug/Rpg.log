@@ -1,0 +1,4 @@
+﻿  Source.cpp
+d:\vs_code\vs_projects\rpg\rpg\source.cpp(33): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+d:\vs_code\vs_projects\rpg\rpg\level.h(73): warning C4715: GetRenderCellsSymbolColor: значение возвращается не при всех путях выполнения
+  Rpg.vcxproj -> D:\VS_Code\VS_Projects\Rpg\Debug\Rpg.exe

@@ -1,0 +1,6 @@
+﻿  main.cpp
+main.cpp(32): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода
+  All 6 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Game3.vcxproj -> D:\VS_Code\VS_Projects\Game\Game3\Release\Game3.exe

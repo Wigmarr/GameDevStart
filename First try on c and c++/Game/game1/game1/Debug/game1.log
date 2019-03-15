@@ -1,0 +1,5 @@
+﻿  main.cpp
+d:\vs_code\vs_projects\game\game1\game1\main.cpp(23): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+d:\vs_code\vs_projects\game\game1\game1\main.cpp(24): warning C4091: : пропускается слева от "char", когда ни одна переменная не объявлена
+d:\vs_code\vs_projects\game\game1\game1\main.cpp(61): warning C4551: в вызове функции отсутствует список аргументов
+  game1.vcxproj -> D:\VS_Code\VS_Projects\Game\game1\Debug\game1.exe
